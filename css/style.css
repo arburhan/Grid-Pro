@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@500&display=swap');
+
+/* Common section */
+body{
+    font-family: 'Fira Sans', sans-serif;
+}
+.focus-text{
+    color: #d83030;
+}
+.buttons{
+    font-size: 18px;
+    background-color: #d83030;
+    border: #d83030 2px solid;
+    color: white;
+    padding: 15px 30px;
+    transition: .2s linear;
+    -webkit-transition: .2s linear;
+    -moz-transition: .2s linear;
+    -ms-transition: .2s linear;
+    -o-transition: .2s linear;
+}
+.buttons:hover{
+    background-color: white;
+    color: #d83030;
+}
+.section-padding{
+    padding: 100px 0px;
+}
+.section-background{
+    background: #f1f1f1;
+}
+.title-text{
+    font-size: 45px;
+    color: #032e42;
+}
+.client{
+    border: 3px solid white;
+}
+.pack-icon{
+    font-size: 70px;
+}
